@@ -12,14 +12,9 @@ class faceBot:
 		driver.get_elements_from_xPath('<input xPath here>').send_keys(username)
 		driver.get_elements_from_xPath('<input xPath here>').send_keys(password)
 		driver.send_keys(Keys.ENTER)
-		driver.close()
-	
+
+
 username = input("Enter Username: ")
 password = getpass("Enter password")
 a = faceBot(username, password)
 
-		
-		
-		
-		
-		
