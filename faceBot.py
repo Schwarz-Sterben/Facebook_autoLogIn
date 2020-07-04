@@ -3,9 +3,6 @@ from selenium.webdriver.common.keys import Keys
 from getpass import getpass
 import time
 
-username = ''
-password = ''
-
 class faceBot:
 	def __init__(self, username, password):
 		driver = webdriver.Firefox()
@@ -13,7 +10,6 @@ class faceBot:
 		driver.get_elements_from_xPath('<input xPath here>').send_keys(username)
 		driver.get_elements_from_xPath('<input xPath here>').send_keys(password)
 		driver.send_keys(Keys.ENTER)
-
 
 username = input("Enter Username: ")
 password = getpass("Enter password")
