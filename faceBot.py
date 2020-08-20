@@ -8,6 +8,8 @@ import mainWindow
 
 class faceBot:
 	def __init__(self, username, password):
+        username = mainWindow.username
+        password = mainWindow.password
 	    driver = webdriver.Firefox()
 		driver.get("https://www.facebook.com")
 		driver.get_elements_from_xPath("//input[contains(@type,'email')]").send_keys(username)
