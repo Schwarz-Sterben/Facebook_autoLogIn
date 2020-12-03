@@ -1,4 +1,4 @@
-# Facebook_autoLogIn
+# Facebook AutoLogIn
 
 Automate logging in to Facebook
 
