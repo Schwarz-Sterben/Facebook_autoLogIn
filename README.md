@@ -1,4 +1,4 @@
-# <img src="public/img/logo.png" width="30" align="left">Facebook AutoLogIn
+# <img src="public/img/logo.png" width="45" align="left">Facebook AutoLogIn
 
 Automate logging in to Facebook
 
