@@ -1,4 +1,4 @@
-# <img src="https://github.com/Schwarz-Sterben/faceLogin/public/img/logo.png" width="30" align="left">Facebook AutoLogIn
+# <img src="public/img/logo.png" width="30" align="left">Facebook AutoLogIn
 
 Automate logging in to Facebook
 
