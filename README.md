@@ -1,4 +1,5 @@
-# <img src="public/img/logo.png" width="45" align="left">FaceLog
+<p align="center"><img src="public/img/logo.png" width="45" align="left">
+</p>
 
 Automate logging in to Facebook
 
