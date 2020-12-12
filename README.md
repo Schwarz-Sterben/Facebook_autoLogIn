@@ -1,5 +1,5 @@
 <img align="center" width="100" height="100" src="public/img/logo1.jpg">
-#FaceLog
+# FaceLog
 
 Automate logging in to Facebook
 
