@@ -1,4 +1,4 @@
-<img src="public/img/logo.png" width="45" align="center">
+<img align="center" width="100" height="100" src="public/img/logo.png">
 </br>
 
 <p align="center">Automate logging in to Facebook </p>
