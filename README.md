@@ -1,7 +1,6 @@
-<img align="center" width="100" height="100" src="public/img/logo1.jpg">
-</br>
+# <img align="center" width="100" height="100" src="public/img/logo1.jpg"> FaceLog
 
-<p align="center">Automate logging in to Facebook </p>
+Automate logging in to Facebook
 
 ## About
 This is a prototype project
