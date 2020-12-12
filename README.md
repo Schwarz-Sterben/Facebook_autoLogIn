@@ -6,4 +6,4 @@ Automate logging in to Facebook
 This is a prototype project
 * This a program that automates the log-in process in Facebook on certain web browsers.
 
-PS. This project is not being updated
+PS. This project is not being updated at the moment
