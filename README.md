@@ -1,7 +1,7 @@
 <p align="center"><img src="public/img/logo.png" width="45" align="left">
-</p>
+</p></br>
 
-Automate logging in to Facebook
+<p align="center">Automate logging in to Facebook </p>
 
 ## About
 This is a prototype project
