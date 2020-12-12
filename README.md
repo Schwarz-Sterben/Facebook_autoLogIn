@@ -1,5 +1,5 @@
-<p align="center"><img src="public/img/logo.png" width="45" align="left">
-</p></br>
+<img src="public/img/logo.png" width="45" align="center">
+</br>
 
 <p align="center">Automate logging in to Facebook </p>
 
